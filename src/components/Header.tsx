@@ -1,5 +1,4 @@
-import { Phone, Mail, MapPin } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { MapPin } from "lucide-react";
 
 const Header = () => {
   return (
@@ -13,13 +12,11 @@ const Header = () => {
               className="h-12 w-12 rounded-full bg-secondary p-1"
             />
             <div>
-              <h1 className="text-2xl font-bold">Da Roça</h1>
-              <p className="text-sm text-primary-foreground/80">Linguiças Artesanais</p>
+              <h1 className="text-2xl font-bold"> Linguiças Da Roça</h1>
             </div>
           </div>
           
           <nav className="hidden md:flex items-center space-x-6">
-            <a href="#sobre" className="hover:text-secondary transition-colors">Sobre</a>
             <a href="#produtos" className="hover:text-secondary transition-colors">Produtos</a>
             <a href="#socios" className="hover:text-secondary transition-colors">Sócios</a>
             <a href="#clientes" className="hover:text-secondary transition-colors">Clientes</a>
