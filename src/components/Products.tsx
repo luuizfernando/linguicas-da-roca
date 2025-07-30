@@ -30,7 +30,7 @@ const Products = () => {
       image: productVariety
     },
     {
-      name: "Sabor Especial Extra Pimenta",
+      name: "Sabor Especial - Linguiça Suína Mais Pimenta",
       description: "Para os corajosos! Nossa receita mais picante",
       spiceLevel: 3,
       image: productVariety
@@ -56,8 +56,10 @@ const Products = () => {
             Nossos <span className="text-primary">Produtos</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Cinco sabores únicos, dois tamanhos perfeitos. 
-            Escolha entre pacotes de 5kg ou bandejas de 650g.
+            Cinco sabores únicos, 3 tamanhos perfeitos.
+          </p>
+          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+            Escolha entre pacotes de 500g, pacotes de 5kg ou bandejas de 650g.
           </p>
         </div>
 
@@ -98,7 +100,7 @@ const Products = () => {
             <CardContent>
               <ul className="space-y-2 text-primary-foreground/90">
                 <li>• Perfeito para restaurantes e açougues</li>
-                <li>• Embalagem resistente e higiênica</li>
+                <li>• Embalagem resistente</li>
                 <li>• Melhor custo-benefício</li>
                 <li>• Disponível em todos os sabores</li>
               </ul>
