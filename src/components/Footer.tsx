@@ -30,20 +30,16 @@ const Footer = () => {
               <li>• Linguiça de Frango Apimentada</li>
               <li>• Linguiça Suína Sem Pimenta</li>
               <li>• Linguiça Suína Apimentada</li>
-              <li>• Sabor Especial Extra Pimenta</li>
+              <li>• Sabor Especial - Linguiça Suína Mais Pimenta</li>
             </ul>
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-lg font-semibold text-secondary">Embalagens</h4>
+            <h4 className="text-lg font-semibold text-secondary">Variedades</h4>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>• Pacotes de 5kg</li>
+              <li>• Pacotes de 500g</li>
               <li>• Bandejas de 650g</li>
-            </ul>
-            <h4 className="text-lg font-semibold text-secondary mt-6">Sócios</h4>
-            <ul className="space-y-2 text-sm text-primary-foreground/80">
-              <li>• Oilson - Sócio Fundador</li>
-              <li>• Wellington - Sócio Fundador</li>
             </ul>
           </div>
 
@@ -72,7 +68,7 @@ const Footer = () => {
 
         <div className="border-t border-white/20 mt-8 pt-8 text-center">
           <p className="text-primary-foreground/60 text-sm">
-            © 2024 Da Roça - Linguiças Artesanais. Todos os direitos reservados.
+            © 2024 Linguiças Da Roça. Todos os direitos reservados.
           </p>
         </div>
       </div>
