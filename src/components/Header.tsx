@@ -31,10 +31,6 @@ const Header = () => {
               <MapPin className="h-4 w-4" />
               <span>Ceilândia - DF</span>
             </div>
-            <Button variant="secondary" size="sm">
-              <Phone className="h-4 w-4 mr-1" />
-              Contato
-            </Button>
           </div>
         </div>
       </div>
