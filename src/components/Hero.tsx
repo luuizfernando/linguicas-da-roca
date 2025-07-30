@@ -16,8 +16,10 @@ const Hero = () => {
                 <span className="block text-secondary">Da Roça</span>
               </h1>
               <p className="text-xl text-primary-foreground/90 leading-relaxed">
-                Tradição e qualidade em cada linguiça. 5 sabores únicos, 
-                produzidos com carinho em Ceilândia-DF pelos mestres Oilson e Wellington.
+                Tradição e qualidade em cada linguiça.
+              </p>
+              <p className="text-xl text-primary-foreground/90 leading-relaxed">
+                5 sabores únicos, produzidos com carinho em Ceilândia-DF.
               </p>
             </div>
 
@@ -37,7 +39,7 @@ const Hero = () => {
                 <Phone className="h-5 w-5 mr-2" />
                 Fazer Pedido
               </Button>
-              <Button size="lg" variant="outline" className="text-lg border-secondary text-secondary hover:bg-secondary hover:text-secondary-foreground">
+              <Button size="lg" variant="secondary" className="text-lg">
                 Ver Produtos
               </Button>
             </div>
