@@ -3,21 +3,14 @@ import { MapPin, Building2, Store } from "lucide-react";
 
 const Clients = () => {
   const clientsDF = [
-    "Açougue Central",
-    "Mercado São José", 
-    "Supermercado Brasília",
-    "Açougue do João",
-    "Empório Ceilândia",
-    "Mercado Popular"
+    "Sam's Club - Águas Claras, SIA e Asa Norte",
+    "Ticiana Werner Restaurante & Wine Bar",
+    "Pizza Cesar - Lago Sul e Sudoeste",
+    "Varejão da Fartura"
   ];
 
   const clientsGO = [
-    "Supermercado Goiânia",
-    "Açougue Goiano",
-    "Mercado Regional",
-    "Distribuidora Anápolis",
-    "Empório do Campo",
-    "Açougue Tradição"
+    "Sam's Club",
   ];
 
   return (
