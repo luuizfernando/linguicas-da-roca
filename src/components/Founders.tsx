@@ -7,9 +7,9 @@ const Founders = () => {
     {
       name: "Oilson",
       role: "Sócio Fundador",
-      phone: "(61) 99999-1234",
-      email: "oilson@daroca.com.br",
-      description: "Especialista em produção artesanal com mais de 15 anos de experiência"
+      phone: "(61) 98130-7555",
+      email: "oilson.dalpra@gmail.com",
+      description: "Experiente gestor de negócios no segmento de alimentos. Desenvolveu estrutura de mercado, indústria e fabricação de linguiças para churrasco, com implantação do SISB em Brasília."
     },
     {
       name: "Wellington",
